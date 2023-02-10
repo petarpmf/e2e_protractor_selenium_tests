@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "alwaysStrict": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "inlineSourceMap": true,
+    "declaration": false,
+    "downlevelIteration": true,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "noStrictGenericChecks": true,
+    "allowJs": false,
+    "types": [],
+    "lib": [
+      "es2017", "dom"]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
